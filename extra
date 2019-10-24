@@ -1,0 +1,119 @@
+<div class="row1"><!--row-->
+               
+                <div class="column1"><!-- 1 column1-->
+                    
+                    <img src="/home/pif/Desktop/scubatica/assets/image/slider/slider1.jpeg"class="imag2" />
+                    
+                </div><!--close 1 column-->
+                
+                <div class="column1"><!-- 1 column1-->
+                    
+                    <img src="/home/pif/Desktop/scubatica/assets/image/slider/slider1.jpeg"class="imag2" />
+                    
+                </div><!--close 1 column1-->
+                
+                <div class="column1"><!-- 1 column1-->
+                    
+                    <img src="/home/pif/Desktop/scubatica/assets/image/slider/slider1.jpeg"class="imag2" />
+                    
+                </div><!--close 1 column-->
+                
+                <div class="column1"><!-- 1 column1-->
+                    
+                    <img src="/home/pif/Desktop/scubatica/assets/image/slider/slider1.jpeg"class="imag2" />
+                    
+                </div><!--close 1 column1-->
+
+            </div><!--close row1-->
+
+
+
+
+
+              <div class="contactdetails"><!--contact details-->
+            <h1>Welcome To Our Dive Center</h1>
+            <div class="row3"><!--row-->
+                
+                <div class="column_b1"><!--column_b-->
+                    <h2>Contact Address</h2>
+	    	        <h4>Head bubbles SCUBA diving is amongst
+                         the most progressive and recent entrants in
+                         offering SCUBA diving in Malavan.
+                          Enjoy SCUBA diving in Malavan at Chivla , 
+                          and a vibrant dive site with abudant coral
+                           life and a wide variety of fishes and aquatic flora.
+                    </h4>
+                    <div class="info1"><!--info-->
+                            
+                        <div class="icon1"><!--icon-->
+                            <i class="fa fa-map-marker" aria-hidden="true" ></i>
+                        </div><!--close info-->
+                        
+                        <div class="name1"><!--name-->
+                            Chivla Beach, Dhurowada, Malavan Sindhudurga.
+                        </div><!--close name-->
+                    
+                    </div><!--close info-->
+	    	      
+                    <div class="info1"><!--info-->
+                            
+                        <div class="icon1"><!--icon-->
+                            <i class="fa fa-envelope" aria-hidden="true" ></i>
+                        </div><!--close info-->
+                        
+                        <div class="name1"><!--name-->
+                            headbubblesscubadiving@gmail.com
+                        </div><!--close name-->
+                    
+                    </div><!--close info--> 
+                   
+	    	        <div class="info1"><!--info-->
+                            
+                        <div class="icon1"><!--icon-->
+                            <i class="fa fa-phone" aria-hidden="true" ></i>
+                        </div><!--close info-->
+                        
+                        <div class="name1"><!--name-->
+                            9404498477 / 9969664131
+                        </div><!--close name-->
+                    
+                    </div><!--close info-->
+
+                    <div class="info1"><!--info-->
+                            
+                        <div class="icon1"><!--icon-->
+                            <i class="fa fa-clock-o" aria-hidden="true" ></i>
+                        </div><!--close info-->
+                        
+                        <div class="name1"><!--name-->
+                            Mon-Sat 08:00 AM - 05:00 PM 
+                        </div><!--close name-->
+                    
+                    </div><!--close info--> 
+
+                </div><!--close column_b-->
+                
+                <div class="column_a1"><!--column-->
+                    <h3>Contact Form</h3>
+                    <form>
+ 				        <div class="input">
+ 					        <input type="text" name="name" placeholder="Name">
+ 				        </div><br>
+ 				        <div class="input">
+ 					        <input type="text" name="email" placeholder="Email">
+ 				        </div><br>
+ 				        <div class="input">
+ 					        <input type="text" name="phone" placeholder="Phone">
+ 				        </div><br>
+ 				        <div class="input">
+ 					        <textarea rows="8" cols="20" placeholder="Message..." name="msg"></textarea>	
+ 				        </div><br>
+ 				        <div class="input1">
+                            <button class="button">Submit</button>
+				        </div>
+ 			        </form>
+                    
+                </div><!--close column_a-->
+            </div><!--row-->
+
+        </div><!--close contact details-->
